@@ -39,14 +39,14 @@ export default function ContactSection() {
           <div className="flex items-start gap-3">
             <Mail className="text-blue-600 mt-1" />
             <div>
-              <p className="text-sm text-gray-600">Graphix@pro.com</p>
+              <p className="text-sm text-gray-600">buikedev09@gmail.com</p>
             </div>
           </div>
 
           <div className="flex items-start gap-3">
             <Phone className="text-blue-600 mt-1" />
             <div>
-              <p className="text-sm text-gray-600">+00 (0) 12 345 6789</p>
+              <p className="text-sm text-gray-600">+234 (9) 02 40 48995</p>
             </div>
           </div>
 
@@ -54,7 +54,7 @@ export default function ContactSection() {
             <MapPin className="text-blue-600 mt-1" />
             <div>
               <p className="text-sm text-gray-600">
-                100 Banbridge Road, United Kingdom
+                100 Banbridge Road, Nigeria
               </p>
             </div>
           </div>

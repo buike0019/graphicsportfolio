@@ -41,16 +41,16 @@ export default function Home() {
 
             {/* Social Icons */}
             <div className="flex items-center space-x-6 text-lg sm:text-xl text-gray-700">
-              <a href="#" className="hover:text-blue-600 transition">
+              <a href="https://facebook.com" className="hover:text-blue-600 transition">
                 <i className="fab fa-facebook-f"></i>
               </a>
-              <a href="#" className="hover:text-blue-600 transition">
+              <a href="https://instagram.com" className="hover:text-blue-600 transition">
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href="#" className="hover:text-blue-600 transition">
+              <a href="https://linkedin.com" className="hover:text-blue-600 transition">
                 <i className="fab fa-linkedin-in"></i>
               </a>
-              <a href="#" className="hover:text-blue-600 transition">
+              <a href="https://twitter.com" className="hover:text-blue-600 transition">
                 <i className="fab fa-twitter"></i>
               </a>
             </div>
